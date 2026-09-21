@@ -38,7 +38,7 @@ types throughout.
 Python, Pandas, NumPy, Google Colab
 
 ## Files in this repo
-- Task1_notebook.ipynb - all the code
+- CodSoft_Task1_Cleaning.ipynb - all the code
 - zomato_cleaned.csv - the final cleaned dataset
 
 #codsoft #dataanalytics
